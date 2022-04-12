@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Enovical
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... a Discord Bot or minecraft mod
 - 📫 How to reach me ... Enovical#0001
 
 <!---
